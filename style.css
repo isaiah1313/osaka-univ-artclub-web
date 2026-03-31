@@ -1,0 +1,9 @@
+h1 {
+    color: #0056b3; /* 文字を青色にする */
+    border-bottom: 2px solid #333; /* 下線を引く */
+}
+
+p {
+    font-size: 16px;
+    color: #666; /* 文字を少し薄い黒にする */
+}
